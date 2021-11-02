@@ -2,9 +2,22 @@
 
 https://play.google.com/store/apps/details?id=com.bonheur.camera
 
-Now even without the film camera, we are still able to take a series of vintage photos. If only you got Filmme on your mobile, you would understand how powerful it is and enjoy the fun of making vintage photos!
+Now even without the fuji instant printer, we are still able to take a series of nostalgic photos. If only you got FILME on your mobile, you would understand how powerful it is and enjoy the fun of making vintage photos!
 
-Filmme has provided filters of the vintage film camera. It can bring out good quality photographs.
+FILME has provided an imitation of the vintage film cam. If connected to a printer, this app acts as real polaroid does. It can bring out good quality photographs.
+
+Therefore, FILME Features:
+
+📺 200+ retro vintage camera filters.
+📺 99+ free light leak effect overlay.
+📺 60+ free dust effect overlay.
+📺 Perfect imaging effect of retro camera lens.
+📺 Flexible adjustment on size, ratio, brightness, tone, hue, level, contrast, white balance, HSV, Saturation and more.
+
+Welcome to share your feelings about our instant, editor, filters and effects. Tell us your favorite and popular patterns and styles. Your positive rating is always our target!
+
+🔔 Support 🔔
+If you have any problems installing or using the application, please contact the team developed applications via mail e-mail: lebonheur216@gmail.com. We will contact you and solve the problem as soon as possible.
 
 ### License
 
